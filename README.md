@@ -1,4 +1,4 @@
-CDP Chatbot Project
+CDP Chatbot Project <br>
 This project is a chatbot application that answers "How-to" questions related to four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. The backend is built using Spring Boot, and the frontend is built using React.js. The chatbot extracts information from documentation files (stored as text files) and processes user queries to provide answers.
 
 Technologies Used
